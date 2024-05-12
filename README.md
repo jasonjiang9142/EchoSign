@@ -34,7 +34,9 @@ Building Echosign presented challenges such as:
 
 ## Watch our Demo Video
 
-Check out our demo video showcasing Echosign in action: [Echosign Demo Video](https://www.youtube.com/watch?v=bABaR_zA_IA)
+## Watch our Demo Video
+
+[![Echosign Demo Video](https://img.youtube.com/vi/bABaR_zA_IA/0.jpg)](https://www.youtube.com/watch?v=bABaR_zA_IA)
 
 ## Conclusion
 
