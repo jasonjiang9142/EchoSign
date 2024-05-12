@@ -32,7 +32,6 @@ Building Echosign presented challenges such as:
 - **Integration:** Ensuring compatibility and seamless integration with virtual platforms presented technical and logistical challenges.
 - **User Feedback:** Collecting and incorporating user feedback, especially from individuals with hearing disabilities, was essential but sometimes challenging due to unique requirements.
 
-## Watch our Demo Video
 
 ## Watch our Demo Video
 
